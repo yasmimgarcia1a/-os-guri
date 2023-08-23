@@ -21,3 +21,31 @@ em strong {
 #banner {
  width:100%;
 }
+
+.principal{
+  background:#b8b6b6;
+  padding: 30px;
+}
+
+.itens {
+  font-style: italic;
+}
+
+.benefícios {
+  background: #FFFFFF;
+  padrinho: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-rigth: 15%
+}
+.imagembeneficios {
+  width: 50%
+}

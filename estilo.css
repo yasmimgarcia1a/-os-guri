@@ -1,8 +1,9 @@
 body {
-  background: #CCCCCC
+  background: #CCCCCC;
 }
 p {
    text-align: center;
+font-size:20px;
 }
 
 em strong {
@@ -11,3 +12,8 @@ em strong {
 
 h1 { 
     text-align: center;
+}
+
+em strong {
+  color: #FF0000;
+}
